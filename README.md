@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # WATTODO
 
 A simple todo list app(Starting out as a todoist clone). Made with Intermediate ReactJS, SCSS and Firebase.
